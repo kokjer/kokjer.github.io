@@ -1,0 +1,34 @@
+.body {
+	color: #333;
+	font-size: 18px;
+}
+.name {
+	margin-top: 50px;
+	margin-bottom: 10px;
+	font-size: 60px;
+	text-align: center;
+}
+.work {
+	margin-top: 0px;
+	padding-bottom: 30px;
+	text-align: 25px;
+	text-align: center;
+}
+.sex {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.info {
+	padding: 0px;
+	text-align: left;
+	border-style: none;
+}
+.element {
+	margin-bottom: 10px;
+}
